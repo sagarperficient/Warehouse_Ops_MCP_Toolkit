@@ -1,19 +1,19 @@
 from fastmcp import FastMCP
 
-from inventory_tools import (
+from src.inventory_tools import (
     search_inventory,
     get_inventory_details,
     adjust_stock_quantity,
     move_inventory_bin,
 )
 
-from dock_tools import (
+from src.dock_tools import (
     get_dock_availability,
     book_dock_slot,
     cancel_dock_booking,
 )
 
-from exception_tools import (
+from src.exception_tools import (
     create_exception,
     resolve_exception,
 )

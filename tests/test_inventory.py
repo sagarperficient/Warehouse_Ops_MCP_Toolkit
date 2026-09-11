@@ -1,7 +1,8 @@
-from inventory_tools import search_inventory
+from src.inventory_tools import search_inventory
 
 
 def test_search_inventory():
+
     result = search_inventory("pallet wrap")
 
     assert result["requires_disambiguation"] is True
