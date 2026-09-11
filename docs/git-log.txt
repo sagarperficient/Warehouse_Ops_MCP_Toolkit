@@ -1,3 +1,26 @@
+commit 311162ba77908c46f2c5f282e99c301c7b1d81ba
+Author: Sagar Mahajan <sagar.mahajan@perficient.com>
+Date:   Fri Sep 11 13:06:55 2026 +0530
+
+    Enhance MCP server, security and test coverage
+
+ src/__pycache__/inventory_tools.cpython-314.pyc | Bin 5718 -> 0 bytes
+ src/inventory_tools.py                          |   2 +-
+ src/server.py                                   | 120 +++++++++++++++++++++---
+ tests/test_errors.py                            |   2 +-
+ tests/test_inventory.py                         |   2 +-
+ tests/test_security.py                          |   2 +-
+ 6 files changed, 113 insertions(+), 15 deletions(-)
+
+commit 5c77d0483171a686a95caf6733cbd4300edd1e2f
+Author: Sagar Mahajan <sagar.mahajan@perficient.com>
+Date:   Fri Sep 11 13:03:32 2026 +0530
+
+    Add git history evidence
+
+ docs/git-log.txt | 118 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 118 insertions(+)
+
 commit af3c951a238120e83a52498e7c4709ddebbf7841
 Author: Sagar Mahajan <sagar.mahajan@perficient.com>
 Date:   Fri Sep 11 13:02:05 2026 +0530
