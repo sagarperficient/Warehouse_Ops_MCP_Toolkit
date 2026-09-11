@@ -1,6 +1,8 @@
 # Warehouse Ops MCP Toolkit
 
-L2 Case 04 – Warehouse Ops MCP Toolkit
+L2 Case 04 – Agentic SDLC Capstone Project
+
+A secure, agent-friendly Warehouse Operations Toolkit built using MCP (Model Context Protocol), providing inventory search, dock management, exception handling, site-based access control, and confirmation-driven operations.
 
 ## Overview
 
