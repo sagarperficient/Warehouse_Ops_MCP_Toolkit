@@ -1,0 +1,6 @@
+mcp
+fastmcp
+pydantic
+pytest
+pytest-asyncio
+pandas
