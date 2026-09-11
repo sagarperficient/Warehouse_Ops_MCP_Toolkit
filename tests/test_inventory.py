@@ -1,4 +1,4 @@
-from src.inventory_tools import search_inventory
+from inventory_tools import search_inventory
 
 
 def test_search_inventory():

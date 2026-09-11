@@ -1,4 +1,4 @@
-from src.inventory_tools import get_inventory_details
+from inventory_tools import get_inventory_details
 
 
 def test_invalid_sku():

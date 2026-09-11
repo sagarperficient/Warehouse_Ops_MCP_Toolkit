@@ -2,7 +2,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from src.security import (
+from security import (
     get_current_site,
     has_site_access,
     access_denied_response
